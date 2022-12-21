@@ -1,10 +1,7 @@
 get some rand binary digits from here => https://qrng.anu.edu.au    and then store them to random.txt
 
 
-then clear the file resultidk.txt
-
-
-no run idk.py
+now run idk.py
 
 and you can take the output data from result.txt and use it for your scrambles
 
