@@ -1,4 +1,4 @@
-first open random.txt and clear the existing data and enter random 1's and 0's from here => https://qrng.anu.edu.au
+get some rand binary digits from here => https://qrng.anu.edu.au    and then store them to 
 
 
 then clear the file resultidk.txt
