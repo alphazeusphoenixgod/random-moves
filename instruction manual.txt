@@ -1,0 +1,12 @@
+first open random.txt and clear the existing data and enter random 1's and 0's from here => https://qrng.anu.edu.au
+
+
+then clear the file resultidk.txt
+
+
+no run idk.py
+
+and you can take the output data from result.txt and use it for your scrambles
+
+
+HAPPY CUBING !!!!!!!!!!!!!!!!!!!!!
