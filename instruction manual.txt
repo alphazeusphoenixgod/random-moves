@@ -1,4 +1,4 @@
-get some rand binary digits from here => https://qrng.anu.edu.au    and then store them to 
+get some rand binary digits from here => https://qrng.anu.edu.au    and then store them to random.txt
 
 
 then clear the file resultidk.txt
